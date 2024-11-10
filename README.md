@@ -1,6 +1,13 @@
 Inventory app
 ==================================
 
+<img src="https://github.com/user-attachments/assets/ae29839d-49c2-4e75-a591-83bb2f179362" width="160" hight="160">
+<img src="https://github.com/user-attachments/assets/2b503ab9-830f-40f9-bf3c-88c7d8df08b3" width="160" hight="160">
+<h2>Database Inspector</h2>
+<img src="https://github.com/user-attachments/assets/4afff943-dd1e-44df-a51e-f09d9ab66167" width="500" hight="500">
+
+
+
 Solution code for Android Basics with Compose.
 
 Introduction
